@@ -9,7 +9,7 @@
 **INTEGRANTES**
  
 * Victor Eduardo Cevallos Forti
-* Ermeson Paul Solano Chasipanta
+* Emerson Paul Solano Chasipanta
 * Juan David Paucar Amagua
 
 
