@@ -65,10 +65,10 @@
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
-**4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
+**4. RESPUESTA A INTERROGANTES Y CALCULO **
 
 
-* 4.1 PRIMERA TABLA  
+  
 
 
 
