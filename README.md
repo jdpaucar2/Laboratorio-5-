@@ -95,14 +95,14 @@ Aplicar el concepto del teorema de Thévenin para los circuitos electronicos en 
 **5. VIDEO**
 
 
+https://youtu.be/m7zweIROR6k
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **6. CONCLUSIONES**
 
-
-
-
+* El teorema de Thevenin es un método para simplificar un circuito a una forma equivalente estándar, el cual sirve para hacer más sencillo el análisis de un circuito complejo.
+* El teorema de Thevenin para análisis de circuitos es comprobable por medio de está práctica deonde existe la presencia de dos fuentes, ir simplificando el circuito para facilitar el cálculo de la corriente y el voltaje.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **7. BIBLIOGRAFÍA**
