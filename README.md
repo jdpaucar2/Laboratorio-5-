@@ -57,18 +57,7 @@ Aplicar el concepto del teorema de Thévenin para los circuitos electronicos en 
 
 ![image](https://user-images.githubusercontent.com/116772918/211443820-72267cae-718d-4b00-be79-746366e37463.png)
 
-
-
-
-
 * 3.2 PROCEDIMIENTO
-
-
-
-
-
-
-
 
 * 3.2.1 DIAGRMA EN TINKERCAD
 
