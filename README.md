@@ -76,18 +76,25 @@ Aplicar el concepto del teorema de Thévenin para los circuitos electronicos en 
 
 ![image](https://user-images.githubusercontent.com/116772918/211448166-9e8ad96b-cdcf-4589-b343-74aeedb3c089.png)
 
-* 3.2.1.4 Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente.
+* 3.2.1.4 Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 **4. RESPUESTA A INTERROGANTES Y CALCULO**
 
 * 4.1 Valores del Circuito Equivalente de Thévenin
+
+
+![839e163b-60bd-4f63-9c49-586868095d70](https://user-images.githubusercontent.com/116772918/211609280-8dcadefd-3315-4b6a-9f52-cbd63b327994.jpg)
+
   
 * 4.2 Comprobación del Teorema de Thévenin
 
-* 4.3 Calculo de errores en las mediciones 
+![f7231c3d-467b-46a5-b26f-0328ca5a9374](https://user-images.githubusercontent.com/116772918/211608952-8b0ea342-4119-43f1-acea-606402acf45f.jpg)
 
+
+
+![9ee491ae-3b58-41d6-9886-93b9b99e2c23](https://user-images.githubusercontent.com/116772918/211609392-dc3c2a48-75ba-42dc-bb74-f3acc367ccf8.jpg)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
