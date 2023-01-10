@@ -61,11 +61,22 @@ Aplicar el concepto del teorema de Thévenin para los circuitos electronicos en 
 
 * 3.2.1 DIAGRMA EN TINKERCAD
 
+* 3.2.1.1 Mida el voltaje y la mcorriente en el resistor R5.
+
 ![image](https://user-images.githubusercontent.com/116772918/211446702-252a9938-13f6-43be-90a2-d013249157db.png)
 
 
 ![image](https://user-images.githubusercontent.com/116772918/211446887-41fd0fc9-be94-44b9-81c4-e41b468c1b61.png)
 
+* 3.2.1.2 Desconecte el resistor R5 y mida el voltaje en el circuito abierto.
+
+![image](https://user-images.githubusercontent.com/116772918/211447722-7a030937-dd21-42f8-af15-fce1dc81008e.png)
+
+* 3.2.1.3 Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente.
+
+![image](https://user-images.githubusercontent.com/116772918/211448166-9e8ad96b-cdcf-4589-b343-74aeedb3c089.png)
+
+* 3.2.1.4 Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente.
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
