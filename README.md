@@ -82,11 +82,11 @@ Aplicar el concepto del teorema de Thévenin para los circuitos electronicos en 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 **4. RESPUESTA A INTERROGANTES Y CALCULO**
 
-
+* 4.1 Valores del Circuito Equivalente de Thévenin
   
+* 4.2 Comprobación del Teorema de Thévenin
 
-
-
+* 4.3 Calculo de errores en las mediciones 
 
 
 
