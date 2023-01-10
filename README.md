@@ -51,7 +51,12 @@ Aplicar el concepto del teorema de Thévenin para los circuitos electronicos en 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **3. EXPLICACIÓN DEL PROCEDIMIENTO**
 
-* 3.1 MATERIALES DE LA PRACTICA
+* 3.1 MATERIALES DE LA PRACTICA Y DIAGRAMA.
+
+![image](https://user-images.githubusercontent.com/116772918/211443593-5c8b5dd4-2189-42e0-88ad-823a1877a78e.png)
+
+![image](https://user-images.githubusercontent.com/116772918/211443820-72267cae-718d-4b00-be79-746366e37463.png)
+
 
 
 
