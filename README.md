@@ -78,6 +78,9 @@ Aplicar el concepto del teorema de Thévenin para los circuitos electronicos en 
 
 * 3.2.1.4 Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo
 
+![image](https://user-images.githubusercontent.com/116772918/211612875-9ebe5d51-a7f6-4c94-a2a7-d66c2d405f5a.png)
+
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 **4. RESPUESTA A INTERROGANTES Y CALCULO**
